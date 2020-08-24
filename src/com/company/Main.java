@@ -6,5 +6,6 @@ public class Main {
         System.out.println("the first code");
         System.out.println("the second code");
         System.out.println("第三行代码");
+        System.out.println("test");
     }
 }
